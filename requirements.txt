@@ -1,0 +1,7 @@
+Django>=5.0
+djangorestframework
+channels
+daphne
+psycopg[binary]
+opencv-python
+Pillow

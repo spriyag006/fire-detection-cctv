@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+db.sqlite3
+evidence/
+*.pth
+*.mp4
+*.avi
+.env
+venv/
+yolox_env/
