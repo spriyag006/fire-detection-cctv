@@ -72,4 +72,4 @@ The trained `best_ckpt.pth` is too large for the repository. Add a download link
 More diverse training data, GPU / edge deployment, Redis channel layer, SMS / call alerts, multi-camera scaling.
 
 ## Team
-Sangeetha Priya G, Sanjana K.S, C. Santhosh - Department of AI & DS, Prathyusha Engineering College. Guide: Ms. R. Anitha, M.E., (Ph.D).
+
